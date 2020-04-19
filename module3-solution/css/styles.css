@@ -1,0 +1,44 @@
+#navbar-brand-title{
+    padding: 8px 8px
+}
+#h-brand-title{
+    margin-top: 0px;
+}
+.menu-items{
+    border: 2px solid black;
+    border-bottom:none;
+    background-color:  rgba(231, 154, 12, 0.452);
+}
+#last-m-item{
+    border-bottom: 2px solid black
+}
+body{
+    background-color: yellow
+}
+#header-nav{
+    background-color:  rgba(119, 170, 247, 0.911);
+    border-bottom: none;
+    border-radius: 0
+}
+h1, h2, h3{
+    color: black
+}
+#chicken-section{
+    background-color: rgb(161, 238, 27);
+    margin: 40px;
+    margin-bottom: 10px;
+    padding: 40px;
+    padding-top: 0px;
+}
+button.navbar-toggle
+{
+    border: 1px solid black
+}
+#nav-list{
+    margin-top: 0px;
+    margin-bottom: 0px
+}
+#nav-list a {
+    color: black;
+    font-size: 1.3em
+}
